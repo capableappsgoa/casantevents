@@ -5,18 +5,34 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          NEW WEBSITE IN DEVELOPMENT MODE
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/casantevents.goa/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Instagram
         </a>
+        <a
+          className="App-link"
+          href="https://www.facebook.com/profile.php?id=100063716452803"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Facebook
+        </a>
+        <a
+          className="App-link"
+          href="https://www.linkedin.com/company/cas-ant-events-private-limited/mycompany/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Linked in
+        </a>
+
       </header>
     </div>
   );
