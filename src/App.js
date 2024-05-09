@@ -10,6 +10,7 @@ function App() {
         </p>
         <div style={{display: "flex"}}>
         <a
+        style={{marginLeft: "10px"}}
           className="App-link"
           href="https://www.instagram.com/casantevents.goa/"
           target="_blank"
