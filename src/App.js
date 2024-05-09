@@ -19,6 +19,7 @@ function App() {
           Instagram
         </a>
         <a
+         style={{marginLeft: "10px"}}
           className="App-link"
           href="https://www.facebook.com/profile.php?id=100063716452803"
           target="_blank"
@@ -27,6 +28,7 @@ function App() {
           Facebook
         </a>
         <a
+         style={{marginLeft: "10px"}}
           className="App-link"
           href="https://www.linkedin.com/company/cas-ant-events-private-limited/mycompany/"
           target="_blank"
