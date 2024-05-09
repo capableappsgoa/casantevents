@@ -8,6 +8,7 @@ function App() {
         <p>
           NEW WEBSITE IN DEVELOPMENT MODE
         </p>
+        <div style={{display: "flex"}}>
         <a
           className="App-link"
           href="https://www.instagram.com/casantevents.goa/"
@@ -32,7 +33,7 @@ function App() {
         >
           Linked in
         </a>
-
+        </div>
       </header>
     </div>
   );
